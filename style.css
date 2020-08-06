@@ -1,0 +1,48 @@
+.img1{
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin: 2px;
+}
+.img2{
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin: 2px;
+}
+.img3{
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin: 2px;
+}
+.img4{
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin-left: 250px;
+}
+.img5{
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin: 2px;
+
+}
+a:link{
+    color: rgba(10, 1, 48, 0.815)
+}
+a:hover{
+    color: blue
+}
+footer{
+    margin-top: 80%;
+    text-align: end;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgba(181, 227, 235, 0.212);
+    margin-left: 30px;
+}
